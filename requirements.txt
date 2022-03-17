@@ -1,0 +1,10 @@
+cryptography==36.0.1
+keyboard==0.13.5
+Pillow==9.0.1
+psutil==5.9.0
+PyAutoGUI==0.9.53
+pyperclip==1.8.2
+PySimpleGUI==4.57.0
+pystray==0.18.0
+pywin32==302
+win32gui==221.6
